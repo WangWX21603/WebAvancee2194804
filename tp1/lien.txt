@@ -1,2 +1,2 @@
 https://github.com/WangWX21603/WebAvancee2194804
-https://e2194804.webdev.cmaisonneuve.qc.ca/tp1/
+https://e2194804.webdev.cmaisonneuve.qc.ca/tp1/index.php
